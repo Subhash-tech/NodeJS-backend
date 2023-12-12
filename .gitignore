@@ -1,0 +1,12 @@
+# Dependencies
+node_modules
+
+# Environment varibales
+.env*
+!.env*.example
+
+#misc
+.vscode
+.DS_Store
+logs
+dist
